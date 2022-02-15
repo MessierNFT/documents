@@ -1,0 +1,79 @@
+{
+  "extension": {
+    "image": "1.jpg",
+    "image_data": null,
+    "external_url": null,
+    "description": "10,101 uniquely generated 3D NFT's designed for the Terra Metaverse. [www.terrabots.io](https://www.terrabots.io/)",
+    "name": "TerraBot #1",
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Eyes",
+        "value": "Light Blue"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Arm Right",
+        "value": "Terra Bot"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Arm Left",
+        "value": "Terra Bot"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Pelvis",
+        "value": "Speedos Pink"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Legs",
+        "value": "Terra Bot"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Feet",
+        "value": "Snow Boots"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Hat Accessory",
+        "value": "Luna Cap Red"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Body Accessory",
+        "value": "Leaves Skirt"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Hand Accessory Right",
+        "value": "Hook"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Hand Accessory Left",
+        "value": "Coffee Mug"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Backpiece",
+        "value": "Jet Pack"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Desert"
+      }
+    ],
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null
+  }
+}
