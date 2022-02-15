@@ -1,4 +1,4 @@
-# Messier.ARt Developer Guideline #
+# Messier.Art Developer Guideline #
 
 Welcome to this guideline, once below data is ready, you should apply to admin@messier.art.
 
